@@ -2,7 +2,9 @@
 A tool to help automatically configure new Perforce clients by running when a new workspace has been setup
 
 # Disclaimers
-The code assumes that your workspace name and workspace root directory folder are the same. It is generally good practice to do this, but if you do not there is an infinite loop
+The code assumes that your workspace name and workspace root directory folder are the same.
+It is generally good practice to do this, but if you do not there is an infinite loop
+Compiling the current codebnase requires Qt: https://www.qt.io/
 
 # Info
 The code can be adopted to your own needs, we update it with the settings that we use internally.
